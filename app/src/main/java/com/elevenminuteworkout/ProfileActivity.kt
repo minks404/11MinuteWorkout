@@ -44,6 +44,7 @@ class ProfileActivity : AppCompatActivity() {
                 val dbHandler = SqliteOpenHelper(this, null)
                 dbHandler.deleteProfile()
                 finish()
+
                 val intent = Intent(this, LoginActivity::class.java)
                 startActivity(intent)
                 finish()

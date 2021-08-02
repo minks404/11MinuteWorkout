@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_custom_back_confirmation.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\dialog_custom_back_confirmation.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\dialog_custom_delete_profile.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\dialog_custom_delete_profile.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_exercise.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_bmi.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_bmi.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\menu_dialog_custom_back_confirmation.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\menu_dialog_custom_back_confirmation.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_exercise_status.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\item_exercise_status.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_history_row.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\item_history_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_change_password.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\menu_dialog_custom_logout_confirmation.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\menu_dialog_custom_logout_confirmation.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_history.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_finish.xml",
+        "source": "E:\\Android_Project\\11MinuteWorkout_v65\\app\\src\\main\\res\\layout\\activity_finish.xml"
+    }
+]

@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.elevenminuteworkout"
+4    android:versionCode="66"
+5    android:versionName="66.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:79:5-80
+11-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:79:22-77
+12
+13    <application
+13-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:6:5-77:19
+14        android:allowBackup="false"
+14-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:7:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.2.0] C:\Users\makhi\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:12:9-40
+23        <activity
+23-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:15:9-21:20
+24            android:name="com.elevenminuteworkout.MainActivity"
+24-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:16:13-41
+25            android:label="@string/app_name"
+25-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:17:13-45
+26            android:screenOrientation="portrait"
+26-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:18:13-49
+27            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+27-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:19:13-69
+28        </activity>
+29        <activity
+29-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:22:9-27:20
+30            android:name="com.elevenminuteworkout.MenuActivity"
+30-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:23:13-41
+31            android:label="@string/app_name"
+31-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:24:13-45
+32            android:screenOrientation="portrait"
+32-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:25:13-49
+33            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+33-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:26:13-69
+34        </activity>
+35/
+36        <activity
+36-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:28:9-31:72
+37            android:name="com.elevenminuteworkout.ExerciseActivity"
+37-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:29:13-45
+38            android:screenOrientation="portrait"
+38-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:30:13-49
+39            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+39-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:31:13-69
+40        <!--
+41This tag is already added by default when you create an activity along with the layout file.
+42        You just need add some extra attribute as per requirement.
+43        -->
+44        <activity
+44-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:36:9-39:72
+45            android:name="com.elevenminuteworkout.FinishActivity"
+45-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:37:13-43
+46            android:screenOrientation="portrait"
+46-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:38:13-49
+47            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+47-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:39:13-69
+48        <!--
+49This tag is already added by default when you create an activity along with the layout file.
+50        You just need add some extra attribute as per requirement.
+51        -->
+52        <activity
+52-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:44:9-47:72
+53            android:name="com.elevenminuteworkout.BMIActivity"
+53-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:45:13-40
+54            android:screenOrientation="portrait"
+54-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:46:13-49
+55            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+55-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:47:13-69
+56        <!--
+57This tag is already added by default when you create an activity along with the layout file.
+58        You just need add some extra attribute as per requirement.
+59        -->
+60        <activity
+60-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:52:9-55:72
+61            android:name="com.elevenminuteworkout.HistoryActivity"
+61-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:53:13-44
+62            android:screenOrientation="portrait"
+62-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:54:13-49
+63            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+63-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:55:13-69
+64        <activity
+64-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:57:9-66:20
+65            android:name="com.elevenminuteworkout.LoginActivity"
+65-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:58:13-42
+66            android:label="LoginActivity"
+66-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:59:13-42
+67            android:screenOrientation="portrait"
+67-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:60:13-49
+68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+68-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:61:13-69
+69            <intent-filter>
+69-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:62:9-65:25
+70                <action android:name="android.intent.action.MAIN" />
+70-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:63:13-65
+70-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:63:21-62
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:64:13-73
+72-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:64:23-70
+73            </intent-filter>
+74/>
+75        </activity>
+76        <activity
+76-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:67:9-71:72
+77            android:name="com.elevenminuteworkout.ProfileActivity"
+77-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:68:13-44
+78            android:label="ProfileActivity"
+78-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:69:13-44
+79            android:screenOrientation="portrait"
+79-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:70:13-49
+80            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+80-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:71:13-69
+81        <activity
+81-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:72:9-76:72
+82            android:name="com.elevenminuteworkout.ChangePassword"
+82-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:73:13-43
+83            android:label="ChangePassword"
+83-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:74:13-43
+84            android:screenOrientation="portrait"
+84-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:75:13-49
+85            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+85-->E:\Android_Project\11MinuteWorkout_v65\app\src\main\AndroidManifest.xml:76:13-69
+86    </application>
+87
+88</manifest>
